@@ -1,4 +1,4 @@
-# WPF-Application
+# WPF-Application-This project is still not complete
 This is a C# project using Visual studio to create a desktop application
 This application was to come up with a way for single moms to join an application to see what fund things there were to do in the summer that were cheap and a way for single moms to connect together to do these fun things.
 To create a WPF desk top application, Cick on the file tab, click new, and then a screen will pop up and choose AppWPF .NETFramework to create your project
